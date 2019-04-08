@@ -1,0 +1,4 @@
+1.两个工程都要安装依赖模块：npm install 
+2.node1运行：supervisor app.js
+vue-admin:运行： npm run dev
+
